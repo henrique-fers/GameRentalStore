@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetosEstudos\\GameRentalStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|c:\\projetosestudos\\gamerentalstore\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|c:\\projetosestudos\\gamerentalstore\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|c:\\projetosestudos\\gamerentalstore\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|c:\\projetosestudos\\gamerentalstore\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|c:\\projetosestudos\\gamerentalstore\\models\\views\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|solutionrelative:models\\views\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|c:\\projetosestudos\\gamerentalstore\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|c:\\projetosestudos\\gamerentalstore\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|solutionrelative:controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|c:\\projetosestudos\\gamerentalstore\\models\\validators\\employee\\createemployeeviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|solutionrelative:models\\validators\\employee\\createemployeeviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|c:\\projetosestudos\\gamerentalstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9200375-54CA-439B-9BF6-F8EA4E2D2A3A}|GameRentalStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\ProjetosEstudos\\GameRentalStore\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\ProjetosEstudos\\GameRentalStore\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:08:37.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\ProjetosEstudos\\GameRentalStore\\Configuration.cs",
+              "RelativeDocumentMoniker": "Configuration.cs",
+              "ToolTip": "C:\\ProjetosEstudos\\GameRentalStore\\Configuration.cs",
+              "RelativeToolTip": "Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:05:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetosEstudos\\GameRentalStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ProjetosEstudos\\GameRentalStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:27:37.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateEmployeeViewModelValidator.cs",
+              "DocumentMoniker": "C:\\ProjetosEstudos\\GameRentalStore\\Models\\Validators\\Employee\\CreateEmployeeViewModelValidator.cs",
+              "RelativeDocumentMoniker": "Models\\Validators\\Employee\\CreateEmployeeViewModelValidator.cs",
+              "ToolTip": "C:\\ProjetosEstudos\\GameRentalStore\\Models\\Validators\\Employee\\CreateEmployeeViewModelValidator.cs",
+              "RelativeToolTip": "Models\\Validators\\Employee\\CreateEmployeeViewModelValidator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:39:47.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "C:\\ProjetosEstudos\\GameRentalStore\\Models\\Views\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\Views\\ResultViewModel.cs",
+              "ToolTip": "C:\\ProjetosEstudos\\GameRentalStore\\Models\\Views\\ResultViewModel.cs",
+              "RelativeToolTip": "Models\\Views\\ResultViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:39:47.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\ProjetosEstudos\\GameRentalStore\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\ProjetosEstudos\\GameRentalStore\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:26:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\ProjetosEstudos\\GameRentalStore\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\ProjetosEstudos\\GameRentalStore\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:26:02.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PromotionController.cs",
+              "DocumentMoniker": "C:\\ProjetosEstudos\\GameRentalStore\\Controllers\\PromotionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PromotionController.cs",
+              "ToolTip": "C:\\ProjetosEstudos\\GameRentalStore\\Controllers\\PromotionController.cs",
+              "RelativeToolTip": "Controllers\\PromotionController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:26:02.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\ProjetosEstudos\\GameRentalStore\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\ProjetosEstudos\\GameRentalStore\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:26:10.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
